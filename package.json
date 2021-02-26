@@ -1,0 +1,23 @@
+{
+  "name": "ActividadNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamorales11/ActividadNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamorales11/ActividadNode/issues"
+  },
+  "homepage": "https://github.com/jamorales11/ActividadNode#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
